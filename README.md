@@ -1,2 +1,1 @@
-# dice
-i want to make dice game
+# dice game
